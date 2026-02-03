@@ -4,7 +4,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/6303715?v=4" style="width: 10%; height: auto;">
 
-Hi, I'm Craytonia. Checkout muh repos!
+Hi, I'm . Checkout muh repos!
 
 ## Projects
 
@@ -16,4 +16,4 @@ Hi, I'm Craytonia. Checkout muh repos!
 
 ---
 
-Copyright 2026 Craytonia
+Copyright 2026 
